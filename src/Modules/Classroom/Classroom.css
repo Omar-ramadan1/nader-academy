@@ -1,0 +1,12 @@
+.booking_notes{
+    border-radius: 25px;
+    background-color: #DE1212;
+    color: #fff;
+}
+.classrom_container{
+    background-image: url('../../Resources/images/Group\ 38.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+}
